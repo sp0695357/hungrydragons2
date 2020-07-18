@@ -1,0 +1,21 @@
+.button {
+  background-color: rgb(230, 171, 10); //
+  border: 2px solid black;
+  border-radius: 5px;
+  color: black;
+  padding: 5px 17px;
+  text-align: center;
+  text-decoration: bold;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+#openinghours {
+  background-color: gold;
+  font-size: 17px;
+  border: 3px solid black;
+  text-align: center;
+  padding: 1px 1px;
+  margin-left: 1px;
+}
